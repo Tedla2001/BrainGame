@@ -1,0 +1,131 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url("https://cdn.glitch.com/e2fbd0f2-458c-4e4b-a403-7dd922d91a64%2Fanimal%20farm.jpg?v=1616621795253");
+  background-size: cover;
+  color: 	#999900;
+  font-weight: bold;
+}
+header{
+  background-color:white;
+  border:black;
+  border-style: solid;
+  border-radius:10px;
+  padding: 5px;
+  size: fit-content;
+  margin-bottom: 20px
+  
+}
+
+
+Button{
+  font-weight: bold;
+  font-size: large;
+  padding:20px 50px;
+  border-radius:10px;
+  margin-bottom: 15px
+}
+
+#button1{
+  width:200px;
+  height:200px;
+  margin:2px;
+  background: lightgreen;
+}
+
+#button1:active, #button1.lit  {
+   background-image: url("https://cdn.glitch.com/e2fbd0f2-458c-4e4b-a403-7dd922d91a64%2FDog.jpg?v=1616619828710");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+#button2{
+  width:200px;
+  height:200px;
+  margin:2px;
+  background: lightblue;
+}
+
+#button2:active, #button2.lit  {
+  background-image: url("https://cdn.glitch.com/e2fbd0f2-458c-4e4b-a403-7dd922d91a64%2FCat.jpg?v=1616620206199");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+    
+}
+
+#button3{
+  width:200px;
+  height:200px;
+  margin:2px;
+   background: pink;
+}
+
+#button3:active, #button3.lit  {
+  background-image: url("https://cdn.glitch.com/e2fbd0f2-458c-4e4b-a403-7dd922d91a64%2Fcow.jpg?v=1616620497877");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#button4{
+  width:200px;
+  height:200px;
+  margin:2px;
+  background: lightyellow;
+}
+
+#button4:active, #button4.lit  {
+  background-image: url("https://cdn.glitch.com/e2fbd0f2-458c-4e4b-a403-7dd922d91a64%2Fduck.jpg?v=1616620866167");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#button5{
+  width:200px;
+  height:200px;
+  margin:2px;
+  background: #ffdb99;
+}
+
+#button5:active, #button5.lit  {
+  background-image: url("https://cdn.glitch.com/e2fbd0f2-458c-4e4b-a403-7dd922d91a64%2Fhorse.jpg?v=1616621082399");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#button6{
+  width:200px;
+  height:200px;
+  margin:2px;
+  background:  #e600e6;
+}
+
+#button6:active, #button6.lit  {
+  background-image: url("https://cdn.glitch.com/e2fbd0f2-458c-4e4b-a403-7dd922d91a64%2Fchicken.jpg?v=1616621271365");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.hidden {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
