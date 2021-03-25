@@ -4,7 +4,7 @@ Brain Game is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
 Submitted by: Tedla Tafari
 
-Time spent: 5 hours spent in total
+Time spent: 10 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/first-cheerful-dumpling
 
