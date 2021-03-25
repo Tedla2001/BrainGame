@@ -38,8 +38,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-<img src="https://cdn.glitch.com/e2fbd0f2-458c-4e4b-a403-7dd922d91a64%2FBrain%20Game.gif?v=1616645081110" width=200 alt='Video Walkthrough' />
+Here's a walkthrough of implemented user stories: <br>
+<img src="https://cdn.glitch.com/e2fbd0f2-458c-4e4b-a403-7dd922d91a64%2FBrain%20Game.gif?v=1616645081110" width=800 alt='Video Walkthrough' />
 
 
 ## Reflection Questions
